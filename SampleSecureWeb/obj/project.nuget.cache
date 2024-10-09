@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G9eQ1mIaX1s=",
+  "dgSpecHash": "wBZ8tcGRUq4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\Documents\\72220522 tugas\\Smst 5\\KTI\\SampleSecureWeb\\SampleSecureWeb.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\Documents\\72220522 tugas\\Smst 5\\KTI\\72220522_tugaskti\\SampleSecureWeb\\SampleSecureWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
